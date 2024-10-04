@@ -44,7 +44,7 @@ end
 endmodule
 ```
 Testbench for Swapping Three Numbers:
-
+```
 module tb_swap_three_numbers;
     reg [7:0] a, b, c;    
     wire [7:0] a_out, b_out, c_out;
@@ -70,6 +70,7 @@ module tb_swap_three_numbers;
     end
 
 endmodule
+```
 ![image](https://github.com/user-attachments/assets/81162061-ef84-4bd6-b33a-aa447a486a52)
 
 Conclusion
